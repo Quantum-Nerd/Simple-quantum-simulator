@@ -26,8 +26,7 @@ Many quantum simulators require programming skills and specialized libraries, wh
 1. **Clone the repository:**
 
 ```bash
-git clone git
-cd Simple-quantum-simulator
+git clone 
 ```
 
 2. **Install the libraries:**
@@ -41,7 +40,7 @@ pip install numpy pytest
 **Run the project using the following command:**
 
 ```bash
-python Quantum_CLI.py
+python CLI.py
 ```
 
 * **1. Choose the Number of Qubits.**
