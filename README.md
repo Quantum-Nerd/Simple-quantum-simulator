@@ -26,7 +26,8 @@ Many quantum simulators require programming skills and specialized libraries, wh
 1. **Clone the repository:**
 
 ```bash
-git clone 
+git clone https://github.com/Quantum-Nerd/Simple-quantum-simulator.git
+cd Simple-quantum-simulator
 ```
 
 2. **Install the libraries:**
